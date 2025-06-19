@@ -46,7 +46,7 @@ function Header() {
         </div>
         <div className="col-5 d-none d-lg-block">
           <img
-            src="./assets/images/profile-pic.jpeg"
+            src="./assets/images/Fotografia1.jpg"
             alt="Filipa Pita"
             className="img-fluid"
           />

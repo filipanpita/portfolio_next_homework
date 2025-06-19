@@ -33,7 +33,7 @@
 
 .Contact .text-box:focus {
   border: 1px solid var(--primary-color);
-  outline: 2px solid #a49ff9;
+  outline: 2px solid #d698f8;
 }
 
 .Contact .btn-primary {

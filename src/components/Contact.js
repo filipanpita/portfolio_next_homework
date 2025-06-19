@@ -19,7 +19,7 @@ function Contact() {
             name="name"
             className="text-box"
             id="name"
-            placeholder="Jane Doe"
+            placeholder="Your name"
             required
           />
         </div>
@@ -31,7 +31,7 @@ function Contact() {
             name="email"
             className="text-box"
             id="email"
-            placeholder="janedoe@example.com"
+            placeholder="name@example.com"
             required
           />
         </div>

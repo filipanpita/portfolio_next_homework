@@ -4,39 +4,56 @@ import "./Certifications.css";
 
 const certificates = [
   {
-    name: "Udemy Full-Stack Web Development",
-    link: "https://www.udemy.com/certificate/UC-5d9b1d47-65fa-4bed-8c8b-ec6f4a6b6825",
-    imgSrc: "/assets/images/certificates/udemy-full-stack-cc.jpg",
+    name: "SheCodes Front-end",
+    imgSrc: "/assets/images/certificates/frontend.png",
   },
   {
-    name: "SheCodes Front-end",
-    link: "https://www.shecodes.io/diplomas/e0ed9183783e936851cf10fad8413f13",
-    imgSrc: "/assets/images/certificates/shecodes-frontend.png",
+    name: "SheCodes React Add-On",
+    imgSrc: "/assets/images/certificates/react_add-on.png",
   },
   {
     name: "SheCodes React",
-    link: "https://www.shecodes.io/certificates/a6204df3b647cb48f2b9c115944308b9",
-    imgSrc: "/assets/images/certificates/shecodes-react-ao.png",
+    imgSrc: "/assets/images/certificates/react.png",
+  },
+  {
+    name: "SheCodes Responsive Add-On",
+    imgSrc: "/assets/images/certificates/responsive_add-on.png",
   },
   {
     name: "SheCodes Responsive",
-    link: "https://www.shecodes.io/certificates/c087932c553fbc77d9843b25065370e9",
-    imgSrc: "/assets/images/certificates/shecodes-responsive-ao.png",
+    imgSrc: "/assets/images/certificates/responsive.png",
+  },
+  {
+    name: "SheCodes Python Advanced",
+    imgSrc: "/assets/images/certificates/python_advanced.png",
+  },
+  {
+    name: "SheCodes Python AI",
+    imgSrc: "/assets/images/certificates/python_ai.png",
+  },
+  {
+    name: "SheCodes Python Basics",
+    imgSrc: "/assets/images/certificates/python_basics.png",
+  },
+  {
+    name: "SheCodes Plus Add-On",
+    imgSrc: "/assets/images/certificates/plus_add-on.png",
   },
   {
     name: "SheCodes AI",
-    link: "https://www.shecodes.io/certificates/d898f74954cdd00c4867e54932dff15e?_gl=1*1qju3h7*_gcl_au*MTcxOTMzMDg5OC4xNzE1MzE3MzM0",
-    imgSrc: "/assets/images/certificates/shecodes-ai.png",
+    imgSrc: "/assets/images/certificates/ai_add-on.png",
   },
   {
     name: "SheCodes Plus",
-    link: "https://www.shecodes.io/certificates/c3e76188733b5cec3f8294114f524734",
-    imgSrc: "/assets/images/certificates/shecodes-plus-ao.png",
+    imgSrc: "/assets/images/certificates/plus.png",
+  },
+  {
+    name: "SheCodes Basics Add-On",
+    imgSrc: "/assets/images/certificates/basics_add-on.png",
   },
   {
     name: "SheCodes Basics",
-    link: "https://www.shecodes.io/certificates/ebadef848e6d1719fe233ab31ea678a3",
-    imgSrc: "/assets/images/certificates/shecodes-basics-ao.png",
+    imgSrc: "/assets/images/certificates/basics.png",
   },
 ];
 
