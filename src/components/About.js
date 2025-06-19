@@ -18,10 +18,10 @@ function About() {
               <div className="card-body">
                 <h5 className="card-title">Education 👩🏽‍🎓</h5>
                 <p className="card-text">
-                I am a recent graduate from New Jersey City University with a B.S. in Computer Science.
+                I have a Biomedical Sciences bachelor and am finishing my master's in Forensic Sciences.
                 </p>
                 <p className="card-text">
-                  I graduated with honors with a GPA of 4.0 (Summa Cum Laude). Additionally, I was involved in my university's programming clubs, the Software Development Club and Girls Who Code.
+                  I find programming and tech very interesting. Additionally, I think that it is very benefitial in science research.
                 </p>
               </div>
             </div>
@@ -34,14 +34,9 @@ function About() {
                 className="img-fluid mb-1 p-2"
               />
               <div className="card-body">
-                <h5 className="card-title">Passions 👩🏽‍💻</h5>
+                <h5 className="card-title">Coding Passions 👩🏽‍💻</h5>
                 <p className="card-text">
-                  I have a strong passion for technology. There is something
-                  really amazing about conceiving an idea and then being the one
-                  to actually make it happen.
-                </p>
-                <p className="card-text">
-                  It has been amazing learning what it's like to create art
+                  It has been amazing learning what it's like to create something
                   through code, and I can't wait to work on more projects!
                 </p>
               </div>
@@ -57,16 +52,13 @@ function About() {
               <div className="card-body">
                 <h5 className="card-title">Hobbies 🧚🏽‍♀️</h5>
                 <p className="card-text">
-                  🎨 Other than coding, I really enjoy journaling and
-                  occasionally painting.
+                  Coding is already a hobbie that I trully enjoy,
+                  but other than that I also enjoy reading, taking
+                  nature walks, and drawing (even though I'm not good).
                 </p>
                 <p className="card-text">
-                  🎶 I'm a huge fan of K-pop, and I love going to concerts with
-                  friends.
-                </p>
-                <p className="card-text">
-                  ⛸️ Lastly, it's always fun for me to try new hobbies like
-                  juggling and ice skating!
+                  🎶 I love listening to music and dancing silly in
+                  the privacy of my room.
                 </p>
               </div>
             </div>

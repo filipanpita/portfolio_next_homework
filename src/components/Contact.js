@@ -6,9 +6,9 @@ function Contact() {
   return (
     <section className="Contact" id="contact">
       <h2>Contact Me</h2>
-      <div className="text-center fs-3">Let's get in touch!</div>
+      <div className="text-center fs-3">Get in touch with me!</div>
       <form
-        action="https://formsubmit.co/rachelgapasinn@gmail.com"
+        action="https://formsubmit.co/filipanpita@gmail.com"
         method="POST"
       >
         <div className="label-input">
@@ -42,7 +42,7 @@ function Contact() {
             name="message"
             className="text-box"
             id="message"
-            placeholder="Hi there! I would love to discuss a potential collaboration. Looking forward to hearing from you!"
+            placeholder="Hi there! I would love to collaborate with you. Looking forward to hearing from you!"
             rows="4"
             required
           ></textarea>
