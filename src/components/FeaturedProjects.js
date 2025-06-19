@@ -5,28 +5,27 @@ import "./FeaturedProjects.css";
 
 const projects = [
   {
-    name: "CarePulse",
+    name: "Dictionary App",
     description:
-      "A healthcare platform built using Next.js, Tailwind CSS, and Appwrite (backend).",
-    imgSrc: "../assets/images/projects/carepulse.png",
-    sourceCode: "https://github.com/rachelgapasin/carepulse-nextjs",
-    demo: "https://carepulse-rg.vercel.app",
+      "A dictionary app built in React by integrating a dictionary API and an images API.",
+    imgSrc: "../assets/images/projects/dictionary_app.JPG",
+    sourceCode: "https://github.com/filipanpita/dictionary-reactaddon",
+    demo: "https://dictionaryapp-reactproject.netlify.app/",
   },
   {
-    name: "Promptopia",
-    description:
-      "A prompt-sharing web app using Next.js, Tailwind CSS, and MongoDB.",
-    imgSrc: "../assets/images/projects/promptopia.png",
-    sourceCode: "https://github.com/rachelgapasin/promptopia-nextjs",
-    demo: "https://promptopia-rg.vercel.app",
+    name: "Landing Page",
+    description: "A landing page built with with responsive tools.",
+    imgSrc: "../assets/images/projects/capital.JPG",
+    sourceCode: "https://github.com/filipanpita/travel-project",
+    demo: "https://shecodes-travelproject.netlify.app/",
   },
   {
-    name: "Bahay Website",
+    name: "Weather App",
     description:
-      "A resource website built using HTML, CSS (Bootstrap), and JavaScript.",
-    imgSrc: "../assets/images/projects/gwc-bahay.png",
-    sourceCode: "https://github.com/rachelgapasin/gwc-bahay",
-    demo: "https://bahay.netlify.app",
+      "A weather app built by integrating a weather API and using HTML, CSS, and Javascript.",
+    imgSrc: "../assets/images/projects/weather_app.JPG",
+    sourceCode: "https://github.com/filipanpita/SheCodes_Plus_Weather_App",
+    demo: "https://shecodesplusweatherappfinalchallenge.netlify.app/",
   },
 ];
 
