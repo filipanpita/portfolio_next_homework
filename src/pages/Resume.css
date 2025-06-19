@@ -1,0 +1,16 @@
+.Resume img {
+  border: 3px solid #f5f0fe;
+  border-radius: 20px;
+}
+
+.Resume .resume {
+  display: block;
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+@media (max-width: 575px) {
+  .Resume h2 {
+    font-size: 30px;
+  }
+}

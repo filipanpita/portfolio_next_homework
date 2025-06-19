@@ -1,0 +1,62 @@
+.Navbar {
+  background-color: var(--bg-primary) !important;
+  box-shadow: 0 7px 7px 0 rgba(0, 0, 0, 0.1);
+}
+
+.Navbar .navbar-brand {
+  color: var(--text);
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding-left: 4px;
+}
+
+.Navbar .nav-link {
+  transition: 270ms;
+}
+
+.Navbar .nav-link:hover,
+.Navbar .dropdown-toggle:hover,
+.Navbar .dropdown-item:hover {
+  color: var(--primary-color) !important;
+}
+
+.Navbar .navbar-toggler {
+  border-color: var(--text);
+}
+
+.Navbar .dropdown-toggle {
+  color: var(--text) !important;
+}
+
+.Navbar .dropdown-menu {
+  background-color: var(--bg-primary);
+  min-width: fit-content;
+}
+
+.Navbar .settings-menu {
+  padding: 10px;
+}
+
+.Navbar .dropdown-item {
+  color: var(--text) !important;
+}
+
+.Navbar .settings-menu .dropdown-item {
+  padding: 0;
+  text-align: center;
+}
+
+.Navbar .dropdown-item:hover {
+  background-color: var(--bg-primary);
+}
+
+.Navbar .nav-link {
+  color: var(--text);
+}
+
+@media (max-width: 575px) {
+  .Navbar .settings-menu .dropdown-item {
+    text-align: start;
+  }
+}
