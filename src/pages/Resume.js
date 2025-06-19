@@ -17,7 +17,7 @@ function Resume() {
         <section>
           <div className="resume">
             <img
-              src="../assets/images/resume.png"
+              src="../assets/images/resume.jpg"
               alt="Filipa Pita Resume"
               className="img-fluid"
             />
