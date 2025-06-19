@@ -40,7 +40,7 @@ function Footer() {
         </a>{" "}
         and hosted on{" "}
         <a
-          href="https://github.com/rachelgapasin/portfolio"
+          href="https://filipanpita.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
