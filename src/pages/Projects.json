@@ -1,72 +1,63 @@
 [
   {
-    "name": "CarePulse",
-    "description": "A healthcare platform built using Next.js, Tailwind CSS, and Appwrite (backend).",
-    "imgSrc": "../assets/images/projects/carepulse.png",
-    "sourceCode": "https://github.com/rachelgapasin/carepulse-nextjs",
-    "demo": "https://carepulse-rg.vercel.app"
-  },
-  {
-    "name": "Promptopia",
-    "description": "A prompt-sharing web app using Next.js, Tailwind CSS, and MongoDB.",
-    "imgSrc": "../assets/images/projects/promptopia.png",
-    "sourceCode": "https://github.com/rachelgapasin/promptopia-nextjs",
-    "demo": "https://promptopia-rg.vercel.app"
-  },
-  {
-    "name": "PoeticPetals",
-    "description": "A web app using AI to generate different types of poems.",
-    "imgSrc": "../assets/images/projects/poeticpetals.png",
-    "sourceCode": "https://github.com/rachelgapasin/ai-poem-generator",
-    "demo": "https://poeticpetals.netlify.app"
-  },
-  {
-    "name": "Facts Logger",
-    "description": "A web app built using React and Supabase database.",
-    "imgSrc": "../assets/images/projects/facts-logger.png",
-    "sourceCode": "https://github.com/rachelgapasin/facts-logger",
-    "demo": "https://todayilearned-rg.netlify.app"
-  },
-  {
-    "name": "Bahay Website",
-    "description": "A resource website built using HTML, CSS (Bootstrap), and JavaScript.",
-    "imgSrc": "../assets/images/projects/gwc-bahay.png",
-    "sourceCode": "https://github.com/rachelgapasin/gwc-bahay",
-    "demo": "https://bahay.netlify.app"
-  },
-  {
-    "name": "Wordist Dictionary",
+    "name": "Dictionary App",
     "description": "A dictionary app built in React by integrating a dictionary API and an images API.",
-    "imgSrc": "../assets/images/projects/wordist-dictionary.png",
-    "sourceCode": "https://github.com/rachelgapasin/dictionary",
-    "demo": "https://wordist.netlify.app"
+    "imgSrc": "../assets/images/projects/dictionary_app.JPG",
+    "sourceCode": "https://github.com/filipanpita/dictionary-reactaddon",
+    "demo": "https://dictionaryapp-reactproject.netlify.app/"
   },
   {
     "name": "React Weather App",
     "description": "A weather app built in React by integrating OpenWeatherMap API and using Tailwind CSS.",
-    "imgSrc": "../assets/images/projects/weather-app-react.png",
-    "sourceCode": "https://github.com/rachelgapasin/weather-app-react",
-    "demo": "https://weather-or-not.netlify.app"
+    "imgSrc": "../assets/images/projects/weather_app2.JPG",
+    "sourceCode": "https://github.com/filipanpita/react-weather-project",
+    "demo": "https://shecodes-reactweatherappproject.netlify.app/"
   },
   {
-    "name": "Monsta X Webpage",
-    "description": "A responsive webpage about my favorite K-pop group, built with HTML and vanilla CSS.",
-    "imgSrc": "../assets/images/projects/monsta-x.png",
-    "sourceCode": "https://github.com/rachelgapasin/kpop-monsta-x",
-    "demo": "https://monstax.netlify.app"
+    "name": "PoeticPetals",
+    "description": "A landing page built with with responsive tools.",
+    "imgSrc": "../assets/images/projects/capital.JPG",
+    "sourceCode": "https://github.com/filipanpita/travel-project",
+    "demo": "https://shecodes-travelproject.netlify.app/"
   },
   {
-    "name": "World Clock App",
+    "name": "Portfolio Template",
+    "description": "A website template for a responsive portfolio.",
+    "imgSrc": "../assets/images/projects/portfolio_template.JPG",
+    "sourceCode": "https://github.com/filipanpita/portfolio-project",
+    "demo": "https://shecodesportfolio-project.netlify.app/"
+  },
+  {
+    "name": "World Clock",
     "description": "A world clock app built using HTML, CSS (Bootstrap), and Javascript (Moment.js).",
-    "imgSrc": "../assets/images/projects/world-clock.png",
-    "sourceCode": "https://github.com/rachelgapasin/world-clock",
-    "demo": "https://rg-world-clock.netlify.app"
+    "imgSrc": "../assets/images/projects/clock_app.JPG",
+    "sourceCode": "hhttps://github.com/filipanpita/shecodes_plus_add-on",
+    "demo": "https://shecodesplusaddonproject.netlify.app/"
   },
   {
-    "name": "Vanilla Weather App",
+    "name": "Quote Generator",
+    "description": "A web app using AI to generate different quotes.",
+    "imgSrc": "../assets/images/projects/quote_generator.JPG",
+    "sourceCode": "https://github.com/filipanpita/SheCodes_Plus_AI_Add-on",
+    "demo": "https://shecodes-ai-quotes.netlify.app/"
+  },
+  {
+    "name": "Weather App",
     "description": "A weather app built by integrating a weather API and using HTML, CSS, and Javascript.",
-    "imgSrc": "../assets/images/projects/weather-app.png",
-    "sourceCode": "https://github.com/rachelgapasin/weather-app",
-    "demo": "https://rg-weather.netlify.app"
+    "imgSrc": "../assets/images/projects/weather_app.JPG",
+    "sourceCode": "https://github.com/filipanpita/SheCodes_Plus_Weather_App",
+    "demo": "https://shecodesplusweatherappfinalchallenge.netlify.app/"
+  },
+  {
+    "name": "Pilates Website",
+    "description": "A simple wesite built using HTML, CSS, and Javascript.",
+    "imgSrc": "../assets/images/projects/pilates.JPG",
+    "demo": "https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/365/006/original/final_project_basics_add-on.html?1724699918"
+  },
+  {
+    "name": "Simple page",
+    "description": "A simple landing page built using HTML, CSS, and Javascript.",
+    "imgSrc": "../assets/images/projects/madeiran_gastronomy.JPG",
+    "demo": "https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/354/567/original/final_project_basics.html?1724060498"
   }
 ]

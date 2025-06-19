@@ -25,9 +25,9 @@ function Header() {
             </span>
           </h1>
           <p className="mt-3">
-            I love to research, explore, and code and create things. I am
-            open to always learn more about what interests me and can help
-            me progress in life. Let's build something interesting!
+            I love to research, explore, and code and create things. I am open
+            to always learn more about what interests me and can help me
+            progress in life. Let's build something interesting!
           </p>
           <a
             href="./#contact"
